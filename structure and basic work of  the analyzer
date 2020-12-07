@@ -10,11 +10,6 @@
 		body{
 		font-family: "Lucida Handwriting",Fantasy;	
 		}
-        
-        .container {
-        	padding: 34px;
-        	background: #A4ABA8;
-        }
         main {
         	max-width: 300px;
         	margin:0 auto ;	
